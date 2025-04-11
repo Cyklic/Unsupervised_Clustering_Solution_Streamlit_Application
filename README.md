@@ -1,7 +1,7 @@
 # Mall Customer Application
 This app has been built using Streamlit and deployed with Streamlit community cloud
 
-<!-- [Visit the app here](https://leonard-umoru-unsupervised-clustering-solution.streamlit.app/) -->
+[Visit the app here](https://leonard-umoru-unsupervised-clustering-solution.streamlit.app/)
 
 This application aims to segment mall customers based on a number of factors and shopping habits by leveraging machine learning predictions.
 
